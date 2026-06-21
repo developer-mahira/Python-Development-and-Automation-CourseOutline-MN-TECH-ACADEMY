@@ -11,7 +11,7 @@
 
 <img src="https://skillicons.dev/icons?i=py,git,github,vscode,linux,bash" /><br/>
 <img src="https://skillicons.dev/icons?i=django,flask,fastapi,sqlite,mysql,postgres" />
-<img src="https://skillicons.dev/icons?i=docker,jupyter,anaconda,regex,githubactions,postman" />
+<img src="https://skillicons.dev/icons?i=docker,anaconda,regex,githubactions,postman" />
 
 </div>
 
