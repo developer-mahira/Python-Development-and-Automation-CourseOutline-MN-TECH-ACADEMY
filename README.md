@@ -22,21 +22,6 @@
 This repository is the **official, centralized resource hub** for the **Python Development & Automation** course at **[Your Academy Name]**. Every module, lecture, assignment, script, and automation project covered in class will be documented and uploaded here in an organized, module-wise structure — giving students one single place to track progress, revise concepts, and showcase a complete portfolio of real-world automation tools and Python applications.
 
 ---
-
-##  Repository Purpose
-
-This repository will include:
-
-- Daily class code & live-session recaps
-- Practice exercises and homework
-- Module-wise assignments
-- Mini scripts & full automation projects
-- Notes, references, and cheat sheets
-- Git/GitHub practice logs
-- Deployment & scheduling guides
-- Quiz and hackathon resources
-
----
 ---
 
 ##  Course Path Overview
@@ -272,7 +257,7 @@ This repository is your complete, structured roadmap — from your very first `p
 
 <img src="images/academy-logo.jpg" alt="Academy Logo" width="80"/>
 
-### [Your Academy Name]
+### MN TECH ACADEMY
 **Building Future Python Developers & Automation Engineers**
 
 [![LinkedIn](https://img.shields.io/badge/Follow_Us-bbad79?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/company/mn-tech-academy)
