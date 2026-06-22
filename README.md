@@ -16,12 +16,6 @@
 </div>
 
 ---
-
-## About This Repository
-
-This repository is the **official, centralized resource hub** for the **Python Development & Automation** course at **[Your Academy Name]**. Every module, lecture, assignment, script, and automation project covered in class will be documented and uploaded here in an organized, module-wise structure — giving students one single place to track progress, revise concepts, and showcase a complete portfolio of real-world automation tools and Python applications.
-
----
 ---
 
 ##  Course Path Overview
